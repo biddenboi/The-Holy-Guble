@@ -1,14 +1,13 @@
-# The Holy Guble
-# III Edition
+# The Holy Guble (III Edition)
 
-## Foreword
+### Foreword
 The tales of Guhan in centuries past have been some of the most monumental to the development of Gooner kind. It was through his guidance that the ancient Gargymids had been ordained, and through his [REDACTED]. It is to this tale that we pay homage.
 
-# Guhanisis (Genesis)
+## Guhanisis (Genesis)
 The Creation
 In the beginning, there was Guhan, and Guhan was the Gargya[REDACTED]. In Guhan flowed the wellspring of life, and that life was the light of all Goonhans, shining in the vault of Gargya never fading.
 
-## Gu And Ga in the Gargyan
+### Gu And Ga in the Gargyan
 These are the records of the Guhan and [REDACTED], concerning their creation. At the time that the Lord Gargya made the Guhan and the Gargya, [REDACTED], [REDACTED], for the Guhan Gargya had not made the officers officer, nor did he create CS’s to club. But [REDACTED], and the Lord Gargya formed the Nathan from [REDACTED] and [REDACTED], and the Nathan became an Officering officer. Guhan Gargya’d the [REDACTED], which he designated the Synagarg for the Nathan to live in. There, he could [REDACTED]. 
 The form of all the trees and shrubs were to the likeness of the Guhan, and the [REDACTED]. The Lord Guhan took the Nathan and placed them into the Synagarg to work and watch over it, to keep its condition pristine. And the Guhan Gargya commanded: “You are to [REDACTED], but you should never [REDACTED], for on the day [REDACTED], you will certainly perish.” Then the Guhan Gargya said, “It is not good for the man to [REDACTED]. I will create a helper to [REDACTED]” 
 Guhan thought, “what better person to [REDACTED]” And so, Guhan sculpted a [REDACTED] and named it Garghan Guya. Guya was the spitting image of Guhan, the perfect [REDACTED]. Nathan and Garghan spent their days in the Synagarg [REDACTED].
@@ -21,7 +20,7 @@ One day, Guhan descended to check in on the two after [REDACTED]. He was enraged
 “You fools! You’ve gooned the mortal [REDACTED]! I’m going to remove your officer roles, time you out, and then set you to Bronze role!”
 Garghan wept, for he knew nothing but [REDACTED]. But Nathan vowed to [REDACTED], even though he wanted it with all his heart. While Garghan disintegrated having no more purpose in life, Nathan remained eternally bound to Guhan, tormented by the shame of his sins
 
-## The Purge (Guhanisis 69)
+### The Purge (Guhanisis 69)
 This is the account of Zoah and her family.
 
 Zoah was a righteous woman, blameless among the people of her time, and she [REDACTED]. Zoah had three sons, Gem, Gam, and Gom. 
@@ -44,7 +43,7 @@ As the dyno completed its final [REDACTED], an dissonant tune played from the sk
 
 But then [REDACTED] remembered Zoah and her logs, and thus the purgery gradually subsided.
 
-# Gohn
+## Gohn
 A letter regarding Diatrophes
 Following the Great Purge (Guhanisis 69), [REDACTED]. Thus [REDACTED], captured in the form of prose between Gohn and Diatrophes. 
 
@@ -74,14 +73,14 @@ A: Nothing is technically wrong, but this feels off.
 B: THERE’S LITERALLY NO POINT IN US BEING HERE ANYMORE.
 A: Seriously—if even #announcements is Guhan-only, this is going too far.
 
-# Gooneronomy
+## Gooneronomy
 Vaishnavi and the Exogoon
 
-# Gathew (Matthew)
+## Gathew (Matthew)
 The Gargyatory
 
 
-# Guke (Luke)
+## Guke (Luke)
 As prophesied in the Gargyabrahamic Religions, unto the 5th day of the Guhanory Calendar, Ozymandias rose from his burial. 
 
 And in the 10th year of the Gircle of Insight, in the 5th age of the Guhanory Calendar, the [REDACTED] descended upon Ozymandias, King of Kings as [REDACTED]. 
@@ -90,7 +89,7 @@ Romeo, Romeo, who art favored by the Gosmos: the Spirit of Guhan is [REDACTED]. 
 
 And in that moment Ozymandias trembled and replied, “How shall this be? [REDACTED]” The [REDACTED] answered: “His [REDACTED]; behind, the impossible shall be made manifest, that all may see the face Guhan’s divinity”.
 
-# Garglossary
+## Garglossary
 Ozymandias the Son, Guhan the father, Gargya the holy spirit.
 Gosmos - world
 Gargyabrahamic Religions - the original set of middle east centered religions created during the gargyaning.

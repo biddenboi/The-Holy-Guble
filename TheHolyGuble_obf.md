@@ -1,4 +1,5 @@
 # The Holy Guble (III Edition)
+> This is the obfusticated form of the Guble, unrestricted access requires a devotion of Goonbyterate or Greater.
 
 ### Foreword
 The tales of Guhan in centuries past have been some of the most monumental to the development of Gooner kind. It was through his guidance that the ancient Gargymids had been ordained, and through his [REDACTED]. It is to this tale that we pay homage.

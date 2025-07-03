@@ -11,6 +11,17 @@ from typing import Final
 # ----------------------------------------------------------------------------
 # Match   [ any‑text ]   *unless* the bracket is part of a markdown link
 # (i.e. immediately followed by '(', which we avoid via a negative look‑ahead).
+
+
+# Simpler markers → anything inside a single [ … ] pair is treated as sensitive.
+# One-step workflow → feed it any text/Markdown file and it spits out an obfuscated copy with a .md extension (default name: <input>_obf.md or <input>.md when the source isn’t already Markdown).
+# Customisable → --placeholder lets you change the replacement text; -o/--out sets a custom output path.
+
+#python obfusticator.py secret_notes.txt        # ➜ secret_notes.md
+#python obfusticator.py report.md -o public.md
+#python obfusticator.py brief.txt --placeholder OMITTED
+
+
 BRACKET_CENSOR: Final[re.Pattern[str]] = re.compile(r"\[(?P<content>[^\[\]]+?)\](?!\()", re.DOTALL)
 
 
